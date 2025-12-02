@@ -1,0 +1,1 @@
+# pythonNovember2025
