@@ -19,6 +19,9 @@ git status
 git commit -m "This is my First Commit"
 git status
 git branch
+git branch dev
+git checkout dev
+git merge dev -m "merge with dev"
 git branch -M main
 git branch
 git remote add origin https://github.com/rony38050/pythonNovember2025
