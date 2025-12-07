@@ -23,7 +23,11 @@ git branch dev
 git checkout dev
 git merge dev -m "merge with dev"
 git branch -M main
-git branch
+git branch -a
 git remote add origin https://github.com/rony38050/pythonNovember2025
 git remote -v
 git commit -m "This is my Second Commit"
+git push origin main
+git push origin HEAD
+git push origin HEAD:main "for merge"
+git clone https://github.com/rony38050/pythonNovember2025.git
