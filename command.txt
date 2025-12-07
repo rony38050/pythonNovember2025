@@ -31,3 +31,5 @@ git push origin main
 git push origin HEAD
 git push origin HEAD:main "for merge"
 git clone https://github.com/rony38050/pythonNovember2025.git
+git pull origin main
+git fetch origin
